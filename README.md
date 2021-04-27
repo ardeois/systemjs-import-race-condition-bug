@@ -14,6 +14,8 @@ npx serve .
 ```
 
 Open safari on http://localhost:5000
+- The first time it will work
+- Refresh and it will fail
 
 # Details
 It seems System JS and Bing conflict when they load external scripts:
