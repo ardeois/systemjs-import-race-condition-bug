@@ -2,6 +2,7 @@
 
 This repository reproduces a bug when importing SystemJS modules.
 In only happens on Safari
+See https://github.com/systemjs/systemjs/issues/2323
 
 From what I've found, we have a conflict with Bing analytics snippet.
 
